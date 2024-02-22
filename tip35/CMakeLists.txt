@@ -1,12 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
-project(example)
+project(virtual-replace)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 #include_directories(include)
 
-add_executable(example  example.cpp)
+add_executable(virtual-replace  virtual-replace.cpp)
 
 #target_link_libraries(lib)
 
