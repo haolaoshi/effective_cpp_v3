@@ -1,0 +1,5 @@
+/home/expert/project/04-effective_cpp/tip40/build/CMakeFiles/rebuild_cache.dir
+/home/expert/project/04-effective_cpp/tip40/build/CMakeFiles/edit_cache.dir
+/home/expert/project/04-effective_cpp/tip40/build/CMakeFiles/example3.dir
+/home/expert/project/04-effective_cpp/tip40/build/CMakeFiles/example2.dir
+/home/expert/project/04-effective_cpp/tip40/build/CMakeFiles/example.dir
