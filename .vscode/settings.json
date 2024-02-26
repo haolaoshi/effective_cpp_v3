@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "new": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/admin/cpp11/muduo-modern-backend"
+}
